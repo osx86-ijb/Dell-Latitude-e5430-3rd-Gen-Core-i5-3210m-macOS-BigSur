@@ -3,7 +3,7 @@
 
 This repository and project hosts the files necessary to boot macOS Big Sur successfully on the Dell Latitude e5430 3rd Generation Core i5 3210m notebook.
 
-![Dell Latitude e5430 Notebook](https://i.ibb.co/TtHJR2j/3764-dell-latitude-e5430-3.jpg)
+![Dell Latitude e5430 Notebook](https://github.com/osx86-ijb/Dell-Latitude-e5430-3rd-Gen-Core-i5-3210m-macOS-BigSur/assets/67184728/9c63dbe9-c479-4d91-86a5-26c1327acdc0)
 
 ## DISCLAIMER
 
@@ -11,7 +11,6 @@ THIS INFORMATION/RESEARCH HAS BEEN DONE AND SHARED PURELY FOR EXPERIMENTAL AND R
 
 ## Acknowledgements
 
- - [Core x86 Group & Team](https://discord.corex86.com)
  - [Dortania Team for their OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
 
 ## Authors
